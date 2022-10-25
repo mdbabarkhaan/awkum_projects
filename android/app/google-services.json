@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477520995131",
+    "project_id": "awkumproject",
+    "storage_bucket": "awkumproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477520995131:android:2249a027a6148a647e8d1e",
+        "android_client_info": {
+          "package_name": "com.example.awkum_projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477520995131-b0po9gp1pa6lp9pev1be1himei0tquve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ujwg9kAcC16fGKJf0-gnmP3PWciEn_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477520995131-b0po9gp1pa6lp9pev1be1himei0tquve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
